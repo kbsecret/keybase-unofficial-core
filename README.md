@@ -1,6 +1,8 @@
 keybase-unofficial-core
 =======================
 
+[![Gem Version](https://badge.fury.io/rb/keybase-unofficial-core.svg)](https://badge.fury.io/rb/keybase-unofficial-core)
+
 Core definitions for [keybase-unofficial-api](https://github.com/woodruffw/keybase-unofficial-api)
 and keybase[-unofficial-local](https://github.com/woodruffw/keybase-unofficial-local).
 
