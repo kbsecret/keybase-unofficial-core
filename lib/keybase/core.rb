@@ -8,6 +8,6 @@ module Keybase
   # The namespace for `keybase-unofficial-core`.
   module Core
     # The current version of `keybase-unofficial-core`.
-    VERSION = "1.0.0"
+    VERSION = "0.0.1"
   end
 end
