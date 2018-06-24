@@ -6,10 +6,10 @@ Gem::Specification.new do |s|
   s.name                  = "keybase-unofficial-core"
   s.version               = Keybase::Core::VERSION
   s.summary               = "keybase-unofficial-core - Core definitions for keybase-unofficial-*"
-  s.description           = <<~EOS
+  s.description           = <<~DESCRIPTION
                               This library provides core definitions for keybase-unofficial-local
                               and keybase-unofficial-api. It isn't very useful alone.
-                            EOS
+                            DESCRIPTION
   s.authors               = ["William Woodruff"]
   s.email                 = "william@tuffbizz.com"
   s.files                 = Dir["LICENSE", "*.md", ".yardopts", "lib/**/*"]
